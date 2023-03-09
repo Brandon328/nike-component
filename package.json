@@ -1,0 +1,15 @@
+{
+  "name": "nike-component",
+  "version": "1.0.0",
+  "description": "A product card web component",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": ["webcomponents, javacript"],
+  "author": "@Brandon328",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
