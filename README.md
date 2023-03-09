@@ -20,7 +20,7 @@ En este pequeño proyecto aprendí a usar webcomponents para crear un componente
 
 ### Links
 
-- [Live Site URL](https://brandon328.github.io/curso-asincronismo-js/)
+- [Live Site URL](https://brandon328.github.io/nike-component/)
 
 ### Usage
 
