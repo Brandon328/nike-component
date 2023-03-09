@@ -26,6 +26,23 @@ En este pequeño proyecto aprendí a usar webcomponents para crear un componente
 
 1. Clona este repositorio en un entorno local.
 2. Abrir el archivo index.html que se encuentra dentro de la ruta `src/index.html`.
+3. En este tercer paso usaremos el webcomponent de la siguiente manera en nuestro archivo `.html`:
+   ```html
+    <product-card 
+      brand="Nike"
+      img="https://raw.githubusercontent.com/degranda/curso-web-components/main/Proyecto/imgs/nike-blue.png"
+      name="Nike Zoom 2020" 
+      collection="running collection"
+      description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis cupiditate perspiciatis numquam non quisquam voluptates tenetur repellat temporibus vero sint ut adipisci perferendis, excepturi in, quae quia ducimus molestiae! Vitae."
+      price="$2,500">
+    </product-card>
+   ```
+   Leyenda:
+    - brand: Es la marca del producto
+    - img: Imagen del producto
+    - name: Nombre del producto
+    - collection: Colección a la que pertenece el producto.
+    - description: Descripción del producto
 
 ## El proceso
 
